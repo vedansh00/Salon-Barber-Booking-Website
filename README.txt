@@ -1,3 +1,6 @@
+Deployment link : 
+https://vedansh00.github.io/Salon-Barber-Booking-Website/
+
 HairHub - Beauty Services Platform 💄✨
 Project Overview
 HairHub is a comprehensive beauty services platform that connects customers with top-rated salons, spas, and beauty professionals. This innovative web application features AI-powered style recommendations, seamless booking systems, and a modern responsive design that delivers an exceptional user experience across all devices.
